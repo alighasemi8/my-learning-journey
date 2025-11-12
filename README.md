@@ -10,5 +10,5 @@ Live Website: [https://tamimco.ir](https://tamimco.ir)
 - Elementor
 
 ## 👨‍💻 Developer
-Created by [Your Name]  
+Created by [alighasemj]  
 Software Engineering Student at Shahab Danesh University
